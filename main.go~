@@ -5,7 +5,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	"github.com/continuum-gufran-baig/run-as-current-user/currentuser"
+	"github.com/ContinuumLLC/platform-asset-plugin/src/currentuser"
 	"golang.org/x/sys/windows"
 )
 
